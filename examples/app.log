@@ -1,0 +1,10 @@
+{"timestamp":"2026-09-15T10:00:01Z","status":200,"latency_ms":38,"service":"api","message":"request handled"}
+{"timestamp":"2026-09-15T10:00:02Z","status":200,"latency_ms":45,"service":"api","message":"request handled"}
+{"timestamp":"2026-09-15T10:00:03Z","status":500,"latency_ms":1200,"service":"api","message":"database timeout"}
+{"timestamp":"2026-09-15T10:00:04Z","status":200,"latency_ms":51,"service":"worker","message":"job completed"}
+{"timestamp":"2026-09-15T10:00:05Z","status":503,"latency_ms":15,"service":"api","message":"service unavailable"}
+{"timestamp":"2026-09-15T10:00:06Z","status":200,"latency_ms":39,"service":"api","message":"request handled"}
+{"timestamp":"2026-09-15T10:00:07Z","status":500,"latency_ms":980,"service":"api","message":"database timeout"}
+{"timestamp":"2026-09-15T10:00:08Z","status":200,"latency_ms":42,"service":"worker","message":"job completed"}
+{"timestamp":"2026-09-15T10:00:09Z","status":404,"latency_ms":12,"service":"api","message":"user not found"}
+{"timestamp":"2026-09-15T10:00:10Z","status":200,"latency_ms":47,"service":"api","message":"request handled"}
